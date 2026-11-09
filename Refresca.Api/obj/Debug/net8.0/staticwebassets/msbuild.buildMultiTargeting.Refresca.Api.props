@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Refresca.Api.props" />
-</Project>
